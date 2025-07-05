@@ -1,0 +1,9 @@
+Pierre Pauchet contributed to 
+-Report : Parts 1. (Intro), 3.1 (Reproduction) 3.3 (Reg-Not-MIWAE) 4. (Conclusion) 
+-Code : Reg-not-MIWAE.ipynb
+
+Laura Choquet contributed to 
+-Report : Parts 2 (not-MIWAE), 3.2 (Mask latent variable), Appendixes
+-Code : notMIWAE_classic_and_with_z_mask.py and the corresponding notebook
+
+Both parties worked on the report format and the poster in equivalent fashion.
