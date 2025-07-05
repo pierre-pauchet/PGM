@@ -6,7 +6,7 @@ import pandas as pd
 import os
 import sys
 sys.path.append(os.getcwd())
-from MIWAE import MIWAE
+from PGM.original_notMIWAE.MIWAE import MIWAE
 from notMIWAE import notMIWAE
 import trainer
 import utils
